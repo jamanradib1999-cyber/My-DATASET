@@ -1,0 +1,10 @@
+path: /kaggle/input/helmet-dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: helmet
+  1: without_helmet
+  2: license_plate
